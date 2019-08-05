@@ -1,3 +1,3 @@
-#Linear Regression
+# Linear Regression
 
-Here are some of my works with linear regression. 
+Here are some of my works with linear regression.
